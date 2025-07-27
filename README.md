@@ -152,11 +152,3 @@ Interested in collaborating or reviewing the design?
 Open an issue or reach out via [GitHub Discussions](#) or \[email/contact if any].
 
 ---
-
-Let me know if you'd like a:
-
-* Shorter version for `README.md` and a separate `docs/ARCHITECTURE.md`
-* Version with diagrams (Mermaid or PNG)
-* Custom badge section (CI/CD, code coverage, etc.)
-
----
